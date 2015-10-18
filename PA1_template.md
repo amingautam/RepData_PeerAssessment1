@@ -1,5 +1,6 @@
 # Reproducible Research: Peer Assessment 1
 
+**<span style="color:red">Note: You will need the following packages: dplyr & timeDate </span>**
 
 ## Loading and preprocessing the data
 
